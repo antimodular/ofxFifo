@@ -2,7 +2,7 @@ ofxFifo
 =====================================
 ![](ofxaddons_thumbnail.png)
 
-ofxFifo is an openFrameworks addon that enables different apps to exchange large amout of data in real time using named pipes (FIFO). For example, you can grab video from webcam in openFrameworks, send the frames to python for processing, and retrieve its output in real time. Another possible usage is having two openFramework apps communicating with each other.
+ofxFifo is an [openFrameworks](https://openframeworks.cc) addon that enables different apps to exchange large amout of data in real time using [named pipes (FIFO)](https://en.wikipedia.org/wiki/Named_pipe). For example, you can grab video from webcam in openFrameworks, send the frames to [python](https://www.python.org) for processing, and retrieve its output in real time. Another possible usage is having two openFramework apps communicating with each other.
 
 Installation
 ------------
